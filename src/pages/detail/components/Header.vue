@@ -38,6 +38,9 @@ export default {
 	},
 	activated () {
 		window.addEventListener('scroll',this.hangleScroll)
+	},
+	deactivated () {
+		window.removeEventListener('scroll',this.hangleScroll)
 	}
 }
 </script>
