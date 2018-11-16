@@ -17,5 +17,6 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+vue,vuex,vue-router实现简单去哪儿界面
+难点： 城市选择页
+项目预览地址： http://travel.zhangtengjin.com/#/
